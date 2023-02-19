@@ -1,0 +1,54 @@
+.AVI{
+    background-color: #EE6461;
+    font-family: Manrope;
+}
+
+
+h2{
+    border-top: 100%;
+    padding-top: 0;
+    writing-mode: vertical-lr;
+    float:right;
+    text-orientation:sideways-right;
+    margin-top: 150px;
+    font-size: 150px;
+}
+#reg
+{
+    float:right;
+}
+
+
+.btn-group button {
+    
+    width: 10%;
+    background-color: #000000; 
+    border: 1px solid rgb(0, 0, 0); 
+    color: white; 
+    padding: 2px 2px; 
+    cursor: pointer; 
+    float: center; 
+  }
+
+#reg
+{
+    font-size: 20px;
+    border-color: black;
+    width: fit-content;
+    background-color: #EE6461;
+    border-radius: 40px;
+    cursor: pointer;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.ai{
+    float: right;
+    padding-right: 300px;
+    border-right: 100px;
+    font-size: 25px;
+    color: white
+    ;
+}
+
